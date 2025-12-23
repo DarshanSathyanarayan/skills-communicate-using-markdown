@@ -6,6 +6,8 @@ This is a <sub>subscript</sub> text
 This is a <sup>superscript</sup> text
 This is an <ins>underlined</ins> text
 > Text that is a quote
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # Example headings
 
 ## Sample Section
@@ -30,3 +32,4 @@ Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-
 Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+
